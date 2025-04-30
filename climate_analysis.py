@@ -26,5 +26,5 @@ for line in climate_data:
             kelvin = temp_conversion.fahr_to_kelvin(fahr)
 
             print(str(celsius)+", "+str(kelvin))
-to do notes: 1,2,3 
+#to do notes: 1,2,3 
 
